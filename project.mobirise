@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "AB Decor",
-    "currentPage": "page36.html",
+    "currentPage": "page23.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -12732,12 +12732,12 @@
               }
             },
             ".mbr-gallery-item > div > span": {
-              "text-align": "left",
+              "text-align": "center",
               "color": "#f0a944"
             }
           },
           "_name": "gallery1",
-          "_customHTML": "<section class=\"mbr-gallery mbr-slider-carousel\" group=\"Sliders & Gallery\" plugins=\"Masonry,BootstrapCarouselSwipe,Gallery,VimeoPlayer,SliderVideo\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"2\" inline>\n        <input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" inline>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#cccccc\">\n        <input type=\"checkbox\" title=\"Gradient Overlay\" name=\"gradOverlay\">\n        <input type=\"color\" title=\"Overlay Color 2\" name=\"overlayColor2\" value=\"#efefef\" condition=\"gradOverlay\">\n        <input type=\"range\" title=\"Overlay Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0\" inline>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n\n        <input type=\"gallery\" title=\"Gallery\" name=\"gallery\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div mbr-gallery=\"gallery\" mbr-gallery-spacing=\"1\" mbr-gallery-show-text mbr-gallery-show-bullets></div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"mbr-gallery mbr-slider-carousel\" group=\"Sliders & Gallery\" plugins=\"Masonry,BootstrapCarouselSwipe,Gallery,VimeoPlayer,SliderVideo\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"2\" inline>\n        <input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" inline>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#cccccc\">\n        <input type=\"checkbox\" title=\"Gradient Overlay\" name=\"gradOverlay\">\n        <input type=\"color\" title=\"Overlay Color 2\" name=\"overlayColor2\" value=\"#efefef\" condition=\"gradOverlay\">\n        <input type=\"range\" title=\"Overlay Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0\" inline>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n\n        <input type=\"gallery\" title=\"Gallery\" name=\"gallery\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div mbr-gallery=\"gallery\" mbr-gallery-spacing=\"5\" mbr-gallery-show-text mbr-gallery-show-bullets></div>\n    </div>\n\n</section>",
           "_cid": "rxxzL1Bqlt",
           "_anchor": "gallery1-3d",
           "_protectedParams": [
@@ -12789,7 +12789,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "flora pp gold",
+                "caption": "FLORA PP GOLD",
                 "active": false
               },
               {
@@ -12802,7 +12802,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "gora N pad artclass903",
+                "caption": "GORA N PAD ARTCLASS",
                 "active": false
               },
               {
@@ -12815,7 +12815,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "gora_V_pad_vokato_fr",
+                "caption": "GORA V PAD VOKATO",
                 "active": false
               },
               {
@@ -12828,7 +12828,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "gozo_turquoise_lodos020_fr",
+                "caption": "GOZO TURQUOISE LODOS020",
                 "active": false
               },
               {
@@ -12841,7 +12841,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Laser_bar_red_fr",
+                "caption": "LASER BAR RED",
                 "active": false
               },
               {
@@ -12854,7 +12854,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Laser_O_pad_artbox301_fr",
+                "caption": "LAZER O PAD ARTBOX301",
                 "active": false
               },
               {
@@ -12867,7 +12867,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Laser_O_pad_colourbox7700_fr",
+                "caption": "LASER O PAD COLOURBOX7700",
                 "active": false
               },
               {
@@ -12880,7 +12880,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Laser_O_pad_colourbox7701_fr",
+                "caption": "LASER O PAD COLOURBOX7701",
                 "active": false
               },
               {
@@ -12893,7 +12893,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "orient_pc_cream_darkblue_bck",
+                "caption": "ORIENT PC CREAM DARKBLUE",
                 "active": false
               },
               {
@@ -12906,7 +12906,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "royal_white_fr",
+                "caption": "ROYAL WHITE",
                 "active": false
               },
               {
@@ -12919,7 +12919,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "sozo_C_stc_fr",
+                "caption": "SOZO C STC",
                 "active": true
               },
               {
@@ -12932,7 +12932,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "sozo_pad_white_novella35_fr",
+                "caption": "SOZO PAD WHITE NOVELLA35",
                 "active": false
               },
               {
@@ -13005,12 +13005,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/la-8030h-1000x13433.jpg",
+                "image": "@PROJECT_PATH@/assets/images/la-8030h-1000x13434.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/la-8030h-1000x1343-800x1074.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "LA-8030H-",
+                "caption": "LA-8030H",
                 "active": false
               },
               {
